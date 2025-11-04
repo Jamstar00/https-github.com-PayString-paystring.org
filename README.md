@@ -7,7 +7,14 @@
   PayString Marketing Site
 </h1>
 
+> **Note:** This repository contains a copy of the PayString website from [github.com/PayString/paystring.org](https://github.com/PayString/paystring.org)
+
 This repository powers the [PayString.org](https://paystring.org) web application built using [Gatsby](https://gatsbyjs.org)
+
+## ⚙️ Requirements
+
+- **Node.js 12.x** - This project requires Node 12 due to Gatsby and Webpack version compatibility
+- **npm 6.x or higher**
 
 ## 🚀 Quick start
 
