@@ -25,9 +25,9 @@ The ***default*** design mimics typical PayString lookup and resolution operatio
 | PayString resolution - multiple addresses | 15 |
 | PayString creation | 3 |
 | PayString update | 2 |
-| \[***Optional***\] HTTPS verification tests | 5 |
-| \[***Optional***\] Cross-network resolution | 5 |
-| \[***Optional***\] High-load concurrent requests | 10 |
+| [***Optional***] HTTPS verification tests | 5 |
+| [***Optional***] Cross-network resolution | 5 |
+| [***Optional***] High-load concurrent requests | 10 |
 
 **Data Design**
 
@@ -56,6 +56,6 @@ Both are acceptable, but ***B is recommended as it includes more requests and Pa
 
 **Protocol Reference**
 
-*   PayString Protocol: [https://paystring.org](https://paystring.org)
-*   PayString RFC: [https://github.com/paystring/rfcs](https://github.com/paystring/rfcs)
-*   Implementation Guide: [https://docs.paystring.org](https://docs.paystring.org)
+*   PayString Protocol: [https://paystring.org](https://paystring.org) - Official PayString website and protocol overview
+*   PayString RFC: [https://github.com/paystring/rfcs](https://github.com/paystring/rfcs) - Protocol specifications and RFCs
+*   Implementation Guide: [https://docs.paystring.org](https://docs.paystring.org) - Technical implementation documentation
