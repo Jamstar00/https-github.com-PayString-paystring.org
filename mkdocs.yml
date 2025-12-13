@@ -1,0 +1,32 @@
+site_name: PayString Documentation
+site_url: https://paystring.org/
+site_description: Universal Payment Identifier - Documentation and Resources
+site_author: PayString Community
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - PayString:
+    - Overview: ./paystring/overview.md
+    - Use Cases: ./paystring/use-cases.md
+    - Wallets and Exchanges: ./paystring/wallets-and-exchanges.md
+    - Compliance: ./paystring/compliance.md
+    - Benchmark: ./paystring/benchmark/design-reference.md
+    - FAQ: ./paystring/faq.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.details
