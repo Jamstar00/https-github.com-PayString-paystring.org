@@ -13,7 +13,7 @@ This repository powers the [PayString.org](https://paystring.org) web applicatio
 
 ## ⚙️ Requirements
 
-- **Node.js 12.x** - This project requires Node 12 due to Gatsby and Webpack version compatibility
+- **Node.js 18.x or higher** - This project requires Node 18 or higher
 - **npm 6.x or higher**
 
 ## 🚀 Quick start
